@@ -1,6 +1,6 @@
-# My Skills Repo
+# My Agents And Skills Repo
 
-A repository for the prompts, rules, skills, and supporting documents I use in my AI-powered projects.
+A repository for the agents, skills, and supporting documents I use in my AI-powered projects.
 
 I use [OpenCode](https://github.com/anomalyco/opencode) as the main tool for working with these assets.
 
