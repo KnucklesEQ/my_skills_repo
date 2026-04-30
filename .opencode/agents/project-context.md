@@ -1,3 +1,4 @@
+---
 description: Create and maintain docs/project-context.md using the project-context-briefing skill
 mode: all
 temperature: 0.1
